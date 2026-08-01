@@ -1,7 +1,27 @@
 aid: sensei
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sensei.png
 name: Sensei
-description: Sensei is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Sensei is an autonomous retail technology company that uses computer vision and artificial
+  intelligence to enable checkout-free, "frictionless" shopping with no scanning and no queues, while
+  giving retailers real-time inventory visibility and operational insights. It ships in four formats —
+  Store (full-store), Pod (24/7 autonomous unit), Cabinet (plug-and-play), and Lane (human-assisted
+  express checkout) — serving supermarkets, workplaces, mobility hubs, education, hospitality, leisure,
+  and health/wellness venues. Founded in Portugal (HQ Castelo Branco, with Lisbon, São Paulo, and Milan
+  offices), Sensei is a Techstars-backed company that works with retailers such as Continente, Conad,
+  NOS, Muffato, and Galp and technical partners including Mastercard and HP. Sensei is a hardware and
+  computer-vision provider and publishes no public API, SDK, or developer documentation; engagement is
+  demo-based ("book a demo") rather than developer self-serve.
 url: https://raw.githubusercontent.com/api-evangelist/sensei/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +31,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Autonomous Retail
+- Computer Vision
+- Artificial Intelligence
+- Retail Technology
+- Checkout-Free
+- Frictionless Shopping
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +47,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/sensei-domain-security.yml
 - type: Website
   url: https://sensei.tech/
+- type: TermsOfService
+  url: https://sensei.tech/legal/terms-conditions
+- type: PrivacyPolicy
+  url: https://sensei.tech/legal/privacy-notice
+- type: Blog
+  url: https://medium.com/@Sensei_Tech
+- type: About
+  url: https://sensei.tech/company
+- type: LinkedIn
+  url: https://www.linkedin.com/company/sensei-tech/
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
