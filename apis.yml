@@ -46,7 +46,7 @@ modified: '2026-07-21'
 tags:
 - Company
 - Autonomous Retail
-- Computer-Vision
+- Computer Vision
 - Artificial Intelligence
 - Retail Technology
 - Checkout-Free
@@ -59,6 +59,7 @@ tags_raw:
 - Retail Technology
 - Checkout-Free
 - Frictionless Shopping
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
