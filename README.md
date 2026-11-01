@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sensei is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Sensei is an autonomous retail technology company that uses computer vision and artificial intelligence to enable checkout-free, "frictionless" shopping with no scanning and no queues, while giving retailers real-time inventory visibility and operational insights. It ships in four formats — Store (full-store), Pod (24/7 autonomous unit), Cabinet (plug-and-play), and Lane (human-assisted express checkout) — serving supermarkets, workplaces, mobility hubs, education, hospitality, leisure, and health/wellness venues. Founded in Portugal (HQ Castelo Branco, with Lisbon, São Paulo, and Milan offices), Sensei is a Techstars-backed company that works with retailers such as Continente, Conad, NOS, Muffato, and Galp and technical partners including Mastercard and HP. Sensei is a hardware and computer-vision provider and publishes no public API, SDK, or developer documentation; engagement is demo-based ("book a demo") rather than developer self-serve.
 
-Backed by: techstars — https://sensei.tech/
+**Areas:** Company · Autonomous Retail · Computer Vision · Artificial Intelligence · Retail Technology · Checkout-Free · Frictionless Shopping
+
+## Sensei on APIs.io
+
+Everything profiled for Sensei is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sensei/](https://apis.io/providers/sensei/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sensei Domain Security](https://apis.io/security/sensei/sensei-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sensei.tech/)
+- [Blog](https://medium.com/@Sensei_Tech)
+- [Terms of service](https://sensei.tech/legal/terms-conditions)
+- [Privacy policy](https://sensei.tech/legal/privacy-notice)
+
+## API Evangelist rating
+
+**Kin Score 8.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.7** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sensei/](https://apis.io/providers/sensei/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Sensei: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sensei/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
